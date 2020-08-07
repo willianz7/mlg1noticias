@@ -9,7 +9,6 @@ cryptography==3.0
 cssselect==1.1.0
 cycler==0.10.0
 dj-database-url==0.5.0
--e git://github.com/django/django@717e07a1a1c994f7a21cad25a984a233efcc25bc#egg=Django
 django-heroku==0.3.1
 hyperlink==19.0.0
 idna==2.10
